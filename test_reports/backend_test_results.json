@@ -1,0 +1,173 @@
+{
+  "timestamp": "2025-11-09T19:25:27.778969",
+  "total_tests": 33,
+  "passed_tests": 32,
+  "success_rate": 96.96969696969697,
+  "results": [
+    {
+      "test": "Root API",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Fleet Owner Registration",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Registration",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Fleet Owner Dashboard Stats",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Dashboard Stats - total_trips field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Dashboard Stats - total_expenses field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Dashboard Stats - active_trips field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Dashboard Stats - total_vehicles field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Dashboard Stats - total_drivers field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Create Vehicle",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Get Vehicles",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Create Trip",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Get Trips",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "AI Route Optimization",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "AI Route Optimization - Response Content",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Create Return Load",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Get Return Loads",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Wallet",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Wallet - balance field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Wallet - fuel_limit field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Wallet - toll_limit field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Wallet - food_limit field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Wallet - lodging_limit field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Wallet - repair_limit field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Dashboard Stats",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Stats - total_trips field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Stats - total_expenses field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Stats - wallet_balance field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Driver Stats - reward_points field",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Create Expense",
+      "status": "FAILED",
+      "details": "Expected 200, got 400 - Expense exceeds fuel limit"
+    },
+    {
+      "test": "Get Expenses",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Payment Checkout",
+      "status": "PASSED",
+      "details": ""
+    },
+    {
+      "test": "Payment Checkout - Response Content",
+      "status": "PASSED",
+      "details": ""
+    }
+  ]
+}
